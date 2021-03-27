@@ -1,14 +1,5 @@
-## diary
+## 일기
 
-<img src="https://1.bp.blogspot.com/-BlSfUQepq4M/YF5wFesz_VI/AAAAAAAABUg/TWlCsNTT_U4TwpSc2BpJXBb-i7sx5SITwCLcBGAsYHQ/s1920/83f0163fe3342e596bbdaafb905af101.jpg">
-
-You can use the [editor on GitHub](https://github.com/fig1996/figfig/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
